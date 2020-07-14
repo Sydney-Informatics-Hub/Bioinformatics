@@ -1,12 +1,19 @@
 # Bioinformatics
 
-A suite of modules, pipelines, and tutorials for common DNA and RNA sequence analysis for use on the University of Sydney's [High Performance Computing service](https://informatics.sydney.edu.au/services/artemis/).
+This page includes bioinformatics software and pipelines optimised by the Sydney Informatics Hub for compute platforms including the University of Sydney's [High Performance Computing service](https://informatics.sydney.edu.au/services/artemis/), National Compute Infrustructure and AWS.
 
-
-Acknowledgements (and co-authorship, where appropriate) are an important way for us to demonstrate the value we bring to your research. Your research outcomes are vital for ongoing funding of the Sydney Informatics Hub. If you use any SIH material towards a publication, please acknowledge the Sydney Informatics Hub.
+__Acknowledgements (and co-authorship, where appropriate) are an important way for us to demonstrate the value we bring to your research. Your research outcomes are vital for ongoing funding of the Sydney Informatics Hub. If you use any SIH material towards a publication, please acknowledge the Sydney Informatics Hub.__
 
 Suggested acknowledgement:
-This research was supported by the Sydney Informatics Hub and the University of Sydney’s high performance computing service, Artemis, funded by the University of Sydney.
+The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.
+
+__Where appropriate, please acknowledge the use of the facility you used.__
+
+Suggested acknowledgements:
+
+__NCI Gadi__: The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney. This research utilised the National Compute Infrustructure, Gadi. 
+__USyd Artemis__: This research was supported by the Sydney Informatics Hub and the University of Sydney’s high performance computing service, Artemis, funded by the University of Sydney.
+
 
 ## NCI Gadi optimised pipelines
 
@@ -26,8 +33,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 
 | Github Repo| Description     |	Software	|
 |-----------|-----------------|-----------------|
-|[SIH-Raijin-Trinity](https://github.com/Sydney-Informatics-Hub/SIH-Raijin-Trinity)| Trinity assembles Illumina RNA-Seq data into transcript sequences. Trinity was developed at the Broad Institute and the Hebrew University of Jerusalem. SIH-Raijin-Trinity allows Trinity to be scalable by enabling use of multiple nodes on NCI Raijin. The entire workflow can complete ~4X faster using 10 broadwell nodes!| samtools/1.9
-java/jdk1.8.0_60, bowtie2/2.3.3.1, jellyfish/2.2.6, salmon/0.11.0, perl/5.22.1, trinity/2.8.4, python3/3.6.7|
+|[SIH-Raijin-Trinity](https://github.com/Sydney-Informatics-Hub/SIH-Raijin-Trinity)| Trinity assembles Illumina RNA-Seq data into transcript sequences. Trinity was developed at the Broad Institute and the Hebrew University of Jerusalem. SIH-Raijin-Trinity allows Trinity to be scalable by enabling use of multiple nodes on NCI Raijin. The entire workflow can complete ~4X faster using 10 broadwell nodes!| samtools/1.9, java/jdk1.8.0_60, bowtie2/2.3.3.1, jellyfish/2.2.6, salmon/0.11.0, perl/5.22.1, trinity/2.8.4, python3/3.6.7|
 
 
 ## Suggested workflows
