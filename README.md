@@ -6,13 +6,11 @@ This page includes bioinformatics software and pipelines optimised by the [Sydne
 
 Acknowledgements (and co-authorship, where appropriate) are an important way for us to demonstrate the value we bring to your research. Your research outcomes are vital for ongoing funding of the Sydney Informatics Hub. If you use any SIH material towards a publication, please acknowledge the Sydney Informatics Hub.
 
-Suggested acknowledgement:
-
-The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.
-
 __Where appropriate, please acknowledge the use of the facility you used.__
 
 Suggested acknowledgements:
+
+The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.
 
 __NCI Gadi__: The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney. This research utilised the National Compute Infrustructure, Gadi. 
 
@@ -24,7 +22,7 @@ __USyd Artemis__: This research was supported by the Sydney Informatics Hub and 
 The Sydney Informatics Hub has worked alongside with the National Compute Infrastructure (NCI) team to establish fast, efficient and scalable bioinformatics workflows on NCI’s HPC, Gadi. The workflows implement best practice workflows and reputable software and are specifically designed to utilise NCI Gadi’s infrastructure optimally. The table below contains a list and descriptions of bioinformatics workflows optimised for NCI Gadi that are available on our GitHub page. 
 
 
-| Github Repo| Description     |	Software	|
+| Repository| Description     |	Software	|
 |-----------|-----------------|-----------------|
 |[QC-tools]|Obtain fastQC reports, perform trimming, convert quality score encodings for fastq files|fastQC, multiQC, BBTools|
 |[FASTQ-BAM]|Whole genome sequence alignment to a reference genome following pre-processing recommendations by the BROAD Institute|bwa-kit, fastp, BWA-MEM, SAMbamba, SAMblaster, SAMtools, GATK 4|
