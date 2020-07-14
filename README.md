@@ -6,15 +6,15 @@ This page includes bioinformatics software and pipelines optimised by the [Sydne
 
 Acknowledgements (and co-authorship, where appropriate) are an important way for us to demonstrate the value we bring to your research. Your research outcomes are vital for ongoing funding of the Sydney Informatics Hub. If you use any SIH material towards a publication, please acknowledge the Sydney Informatics Hub.
 
-__Where appropriate, please acknowledge the use of the facility you used.__
-
 Suggested acknowledgements:
 
-The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.
+__NCI Gadi__
 
-__NCI Gadi__: The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney. This research utilised the National Compute Infrustructure, Gadi. 
+The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney. This research utilised the National Compute Infrustructure, Gadi. 
 
-__USyd Artemis__: This research was supported by the Sydney Informatics Hub and the University of Sydney’s high performance computing service, Artemis, funded by the University of Sydney.
+__USyd Artemis__ 
+
+This research was supported by the Sydney Informatics Hub and the University of Sydney’s high performance computing service, Artemis, funded by the University of Sydney.
 
 
 ## NCI Gadi optimised pipelines
