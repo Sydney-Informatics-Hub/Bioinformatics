@@ -38,9 +38,14 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 
 ## Suggested workflows
 
+Below are quick guides on how to link pipelines into workflows to process your sequencing data that is relevant to your specific research. Follow the set up guide for instructions on software installation.
+
 ### Whole genome sequencing
 
 __Human: Calling germline variants__
 
 __Human: Cancer research__
 
+## Set up
+
+### Gadi
