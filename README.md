@@ -6,3 +6,8 @@ Acknowledgements (and co-authorship, where appropriate) are an important way for
 
 Suggested acknowledgement:
 This research was supported by the Sydney Informatics Hub and the University of Sydney’s high performance computing service, Artemis, funded by the University of Sydney.
+
+## Optimised pipelines
+
+| Name      | Github Repo| Description     |	Tools used	|
+|-----------|-----------|-----------------|-----------------|
