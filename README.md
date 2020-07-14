@@ -33,5 +33,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 
 ### Whole genome sequencing
 
-__Human__
+__Human: Calling germline variants__
+
+__Human: Cancer research__
 
