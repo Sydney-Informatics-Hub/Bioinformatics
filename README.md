@@ -1,6 +1,6 @@
 # Bioinformatics
 
-This page includes bioinformatics software and pipelines optimised by the [Sydney Informatics Hub](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html) for compute platforms including the University of Sydney's [High Performance Computing service](https://informatics.sydney.edu.au/services/artemis/), National Compute Infrastructure and AWS.
+This page includes bioinformatics software and pipelines optimised by the [Sydney Informatics Hub](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html), the University of Sydney for compute platforms including the University of Sydney's [High Performance Computer Artemis](https://informatics.sydney.edu.au/services/artemis/), Australia's [National Compute Infrastructure](https://nci.org.au/) and AWS Cloud.
 
 ## Acknowledgements
 
