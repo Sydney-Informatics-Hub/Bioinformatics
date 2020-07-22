@@ -25,7 +25,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 | Repository| Description     |	Software	|
 |-----------|-----------------|-----------------|
 |[QC-tools](https://github.com/Sydney-Informatics-Hub/QC-tools)|Obtain fastQC reports, perform trimming, convert quality score encodings for fastq files|fastQC, multiQC, BBTools|
-|[Fastq-to-BAM]|(https://github.com/Sydney-Informatics-Hub/Fastq-to-BAM)|Whole genome sequence alignment to a reference genome following pre-processing recommendations by the BROAD Institute|bwa-kit, fastp, BWA-MEM, SAMbamba, SAMblaster, SAMtools, GATK 4|
+|[Fastq-to-BAM](https://github.com/Sydney-Informatics-Hub/Fastq-to-BAM)|Whole genome sequence alignment to a reference genome following pre-processing recommendations by the BROAD Institute|bwa-kit, fastp, BWA-MEM, SAMbamba, SAMblaster, SAMtools, GATK 4|
 |[Germline-ShortV](https://github.com/Sydney-Informatics-Hub/Germline-ShortV)|Germline short variant calling (joint calling) following the Germline short variant discovery (SNPs + Indels) Best Practices Workflow by the BROAD Institute|GATK4|
 |[Somatic-ShortV](https://github.com/Sydney-Informatics-Hub/Somatic-ShortV)|Somatic short variant calling (joint calling) following the Somatic short variant discovery (SNPs + Indels) Best Practices Workflow by the BROAD Institute for tumour-normal pairs|GATK 4|
 |[StructuralV]|TBA: Structural variant calling using MANTA, GRIDSS2 and CNVkit|Manta, GRIDSS2, CNVkit|
