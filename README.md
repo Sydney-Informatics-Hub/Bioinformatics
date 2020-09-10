@@ -31,7 +31,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 |[StructuralV]|TBA: Structural variant calling using MANTA, GRIDSS2 and CNVkit|Manta, GRIDSS2, CNVkit|
 |[RNASeq-DE](https://github.com/Sydney-Informatics-Hub/RNASeq-DE)|Process RNA sequencing data for differential expression, including fastQC, trimming, mapping with STAR and obtaining a raw count matrix|fastQC, multiQC, bbduk, STAR, RSeQC, HTSeq|
 
-## UQ Flashlite pipelines
+## UQ Flashlite optimised pipelines
 
 | Repository| Description     |	Software	|
 |-----------|-----------------|-----------------|
