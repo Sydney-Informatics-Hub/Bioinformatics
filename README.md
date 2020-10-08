@@ -36,7 +36,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 
 | Repository| Description     |	Software	|
 |-----------|-----------------|-----------------|
-|[Flashlite-Trinity](https://github.com/Sydney-Informatics-Hub/Flashlite-Trinity)|Perform de novo transcriptome assembly using Trinity on Flashlite using Singularity containers|
+|[Flashlite-Trinity](https://github.com/Sydney-Informatics-Hub/Flashlite-Trinity)|Perform de novo transcriptome assembly using Trinity on Flashlite using Singularity containers|Singularity v3|
 
 
 ## NCI Raijin (decommissioned) optimised pipelnes
