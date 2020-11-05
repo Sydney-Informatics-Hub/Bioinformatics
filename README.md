@@ -38,6 +38,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 | Repository| Description     |	Software	|
 |-----------|-----------------|-----------------|
 |[Flashlite-Trinity](https://github.com/Sydney-Informatics-Hub/Flashlite-Trinity)|Perform de novo transcriptome assembly using Trinity on Flashlite using Singularity containers|Singularity v3|
+|[Flashlite-Juicer](https://github.com/natbutter/juicer)|PBS version of [Juicer](https://github.com/aidenlab/juicer) that generates Hi-C maps from raw fastq files| [Juicer](https://github.com/aidenlab/juicer)|
 
 
 ## NCI Raijin (decommissioned) optimised pipelnes
