@@ -37,7 +37,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 
 If you use our pipelines, please cite us:
 
-Willet, CE & Chew, T, <year>, *The Sydney Informatics Hub Bioinformatics Github Repository*, Core Research Facilities, University of Sydney, <date accessed>, <https://github.com/Sydney-Informatics-Hub/Bioinformatics>
+Willet, CE & Chew, T, <year>, *The Sydney Informatics Hub Bioinformatics Github Repository*, Core Research Facilities, University of Sydney, \<date accessed\>, <https://github.com/Sydney-Informatics-Hub/Bioinformatics>
 
 
 ## Acknowledgements
