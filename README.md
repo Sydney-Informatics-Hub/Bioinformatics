@@ -33,9 +33,16 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 |-----------|-----------------|-----------------|
 |[SIH-Raijin-Trinity](https://github.com/Sydney-Informatics-Hub/SIH-Raijin-Trinity)| Trinity assembles Illumina RNA-Seq data into transcript sequences. Trinity was developed at the Broad Institute and the Hebrew University of Jerusalem. SIH-Raijin-Trinity allows Trinity to be scalable by enabling use of multiple nodes on NCI Raijin. The entire workflow can complete ~4X faster using 10 broadwell nodes!| samtools/1.9, java/jdk1.8.0_60, bowtie2/2.3.3.1, jellyfish/2.2.6, salmon/0.11.0, perl/5.22.1, trinity/2.8.4, python3/3.6.7|
 
+## Cite us to support us!
+
+If you use our pipelines, please cite us:
+
+Willet, CE & Chew, T, <year>, *The Sydney Informatics Hub Bioinformatics Github Repository*, Core Research Facilities, University of Sydney, <date accessed>, <https://github.com/Sydney-Informatics-Hub/Bioinformatics>
+
+
 ## Acknowledgements
 
-Acknowledgements (and co-authorship, where appropriate) are an important way for us to demonstrate the value we bring to your research. Your research outcomes are vital for ongoing funding of the Sydney Informatics Hub. If you use any SIH material towards a publication, please acknowledge the Sydney Informatics Hub.
+Acknowledgements (and co-authorship, where appropriate) are an important way for us to demonstrate the value we bring to your research. Your research outcomes are vital for ongoing funding of the Sydney Informatics Hub and national compute facilities. 
 
 Suggested acknowledgements:
 
