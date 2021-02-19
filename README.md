@@ -37,7 +37,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 
 If you use our pipelines, please cite us:
 
-Willet, CE & Chew, T, 2021, *The Sydney Informatics Hub Bioinformatics Github Repository*, Core Research Facilities, University of Sydney, \<date accessed\>, <https://github.com/Sydney-Informatics-Hub/Bioinformatics>
+Sydney Informatics Hub, Core Research Facilities, University of Sydney, 2021, *The Sydney Informatics Hub Bioinformatics Repository*, \<date accessed\>, <https://github.com/Sydney-Informatics-Hub/Bioinformatics>
 
 
 ## Acknowledgements
@@ -48,14 +48,14 @@ Suggested acknowledgements:
 
 __NCI Gadi__
 
-The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney. This research utilised the National Compute Infrustructure, Gadi. 
+The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney. This research utilised the resources and services from the National Computational Infrastructure (NCI), which is supported by the Australian Government.
 
 __USyd Artemis__ 
 
-This research was supported by the Sydney Informatics Hub and the University of Sydney’s high performance computing service, Artemis, funded by the University of Sydney.
+This research utilised the high performance computing service, Artemis, provided by the Sydney Informatics Hub, Core Research Facility, University of Sydney.
 
 __UQ's Flashlite__
 
-The authors acknowledge the scientific and technical assistance <or e.g. bioinformatics assistance of > of Sydney Informatics Hub, the University of Sydney and resources and services provided by the University of Queensland.
+The authors acknowledge the scientific and technical assistance <or e.g. bioinformatics assistance of > of Sydney Informatics Hub, the University of Sydney and high performance computing services provided by the University of Queensland's Research Computing Centre (RCC).
 
 
