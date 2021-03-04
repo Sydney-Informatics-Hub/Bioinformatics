@@ -25,6 +25,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 |-----------|-----------------|-----------------|
 |[Flashlite-Trinity](https://github.com/Sydney-Informatics-Hub/Flashlite-Trinity)|Perform de novo transcriptome assembly using Trinity on Flashlite using Singularity containers|Singularity v3|
 |[Flashlite-Juicer](https://github.com/natbutter/juicer)|PBS version of [Juicer](https://github.com/aidenlab/juicer) that generates Hi-C maps from raw fastq files| [Juicer](https://github.com/aidenlab/juicer)|
+|[Flashlite-Supernova](https://github.com/Sydney-Informatics-Hub/Flashlite-Supernova)|10X Genomic's Supernova generates phased, whole-genome de novo assemblies from a Chromium-prepared library.| Supernova |
 
 
 ## NCI Raijin (decommissioned) optimised pipelnes
