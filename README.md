@@ -40,6 +40,7 @@ If you use our pipelines, please cite us:
 
 Sydney Informatics Hub, Core Research Facilities, University of Sydney, 2021, *The Sydney Informatics Hub Bioinformatics Repository*, \<date accessed\>, <https://github.com/Sydney-Informatics-Hub/Bioinformatics>
 
+You can also find DOIs for all our pipelines at the Sydney Informatics Hub's [WorkflowHub](https://workflowhub.eu/projects/43#workflows)
 
 # Acknowledgements
 
