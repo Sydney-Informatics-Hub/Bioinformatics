@@ -36,9 +36,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 
 # Cite us to support us!
 
-If you use our pipelines, please cite us:
-
-Sydney Informatics Hub, Core Research Facilities, University of Sydney, 2021, *The Sydney Informatics Hub Bioinformatics Repository*, \<date accessed\>, <https://github.com/Sydney-Informatics-Hub/Bioinformatics>
+Please cite the repository(s) that you have used. 
 
 You can also find DOIs for all our pipelines at the Sydney Informatics Hub's [WorkflowHub](https://workflowhub.eu/projects/43#workflows)
 
