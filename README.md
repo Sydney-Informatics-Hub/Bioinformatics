@@ -13,6 +13,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 |[Fastq-to-BAM](https://github.com/Sydney-Informatics-Hub/Fastq-to-BAM)|Whole genome sequence alignment to a reference genome following pre-processing recommendations by the BROAD Institute|bwa-kit, fastp, BWA-MEM, SAMbamba, SAMblaster, SAMtools, GATK4|
 |[Germline-ShortV](https://github.com/Sydney-Informatics-Hub/Germline-ShortV)|Germline short variant calling (joint calling) following the Germline short variant discovery (SNPs + Indels) Best Practices Workflow by the BROAD Institute|GATK4|
 |[Bootstrapping-for-BQSR](https://github.com/Sydney-Informatics-Hub/Bootstrapping-for-BQSR)|Bootstrapping a variant resource to enable GATK base quality score recalibration (BQSR) for non-model organisms that lack a publicly available variant resource. |GATK4|
+|[GermlineShortV_biovalidation](https://github.com/Sydney-Informatics-Hub/GermlineShortV_biovalidation)|Biological validation of germline variant calling pipeline for model and non-model organisms. |hap.py, bcftools, R|
 |[Somatic-ShortV](https://github.com/Sydney-Informatics-Hub/Somatic-ShortV)|Somatic short variant calling (joint calling) following the Somatic short variant discovery (SNPs + Indels) Best Practices Workflow by the BROAD Institute for tumour-normal pairs|GATK4|
 |[Germline-StructuralV]|Coming soon!|MANTA, Smoove, TIDDIT, SURVIVOR|
 |[Somatic-StructuralV]|Coming soon!|GRIDSS, PURPLE, LINX|
