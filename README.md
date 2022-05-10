@@ -35,6 +35,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 | Repository| Description     |	Software	|
 |-----------|-----------------|-----------------|
 |[GermlineShortV_biovalidation](https://github.com/Sydney-Informatics-Hub/GermlineShortV_biovalidation)|Biological validation of germline variant calling pipeline for model and non-model organisms. |hap.py, bcftools, R|
+|USyd-Trinity| Coming soon! |Trinity|
 
 ## NCI Raijin (decommissioned) optimised pipelnes
 
