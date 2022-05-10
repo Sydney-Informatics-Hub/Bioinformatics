@@ -43,6 +43,11 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 |-----------|-----------------|-----------------|
 |[SIH-Raijin-Trinity](https://github.com/Sydney-Informatics-Hub/SIH-Raijin-Trinity)| Trinity assembles Illumina RNA-Seq data into transcript sequences. Trinity was developed at the Broad Institute and the Hebrew University of Jerusalem. SIH-Raijin-Trinity allows Trinity to be scalable by enabling use of multiple nodes on NCI Raijin. The entire workflow can complete ~4X faster using 10 broadwell nodes!| samtools/1.9, java/jdk1.8.0_60, bowtie2/2.3.3.1, jellyfish/2.2.6, salmon/0.11.0, perl/5.22.1, trinity/2.8.4, python3/3.6.7|
 
+## Monitor your HPC jobs 
+| Repository| Description     |	Software	|
+|-----------|-----------------|-----------------|
+|[HPC_usage_reports](https://github.com/Sydney-Informatics-Hub/HPC_usage_reports)|Pull resource usage data from job logs into tab-delimited format for Gadi, Artemis and Flashlite HPCs |perl|
+
 # Cite us to support us!
 
 Please cite the repository(s) that you have used. 
