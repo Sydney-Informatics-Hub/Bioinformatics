@@ -14,7 +14,7 @@ The Sydney Informatics Hub has worked alongside with the National Compute Infras
 |[Germline-ShortV](https://github.com/Sydney-Informatics-Hub/Germline-ShortV)|Germline short variant calling (joint calling) following the Germline short variant discovery (SNPs + Indels) Best Practices Workflow by the BROAD Institute|GATK4|
 |[Bootstrapping-for-BQSR](https://github.com/Sydney-Informatics-Hub/Bootstrapping-for-BQSR)|Bootstrapping a variant resource to enable GATK base quality score recalibration (BQSR) for non-model organisms that lack a publicly available variant resource. |GATK4|
 |[Somatic-ShortV](https://github.com/Sydney-Informatics-Hub/Somatic-ShortV)|Somatic short variant calling (joint calling) following the Somatic short variant discovery (SNPs + Indels) Best Practices Workflow by the BROAD Institute for tumour-normal pairs|GATK4|
-|[Germline-StructuralV]|Coming soon!|MANTA, Smoove, TIDDIT, SURVIVOR|
+|[Germline-StructuralV](https://github.com/Sydney-Informatics-Hub/GermlineStructuralV)|Coming soon!|MANTA, Smoove, TIDDIT, SURVIVOR|
 |[Somatic-StructuralV]|Coming soon!|GRIDSS, PURPLE, LINX|
 |[Shotgun-Metagenomics-Analysis](https://github.com/Sydney-Informatics-Hub/Shotgun-Metagenomics-Analysis)|Coming soon!||
 |[Gadi-Trinity](https://github.com/Sydney-Informatics-Hub/Gadi-Trinity)|Perform de novo transcriptome assembly with Trinity|Trinity|
