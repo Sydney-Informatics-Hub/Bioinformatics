@@ -3,12 +3,12 @@
 This page includes bioinformatics software and pipelines developed and optimised by the [Sydney Informatics Hub](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html), University of Sydney for compute platforms including the University of Sydney's [High Performance Computer Artemis](https://informatics.sydney.edu.au/services/artemis/), Australia's [National Compute Infrastructure](https://nci.org.au/) (NCI), the University of Queensland's (UQ's) HPC [Flashlite](https://rcc.uq.edu.au/filething/get/14818/FlashLite_User_Guide_20200122.pdf) and AWS Cloud. 
 
 ## Pipeline categories 
-- [Portable Nextflow pipelines](#nci-Gadi-optimised-pipelines)
-- [NCI Gadi optimised pipelines](#portable-nextflow-pipelines)
-- [UQ Flashlite optimised pipelines](#UQ-Flashlite-optimised-pipelines)
-- [USyd Artemis optimised pipelines](#USyd-Artemis-optimised-pipelines)
-- [NCI Raijin optimised pipelines](#NCI -Raijin-(decommissioned)-optimised-pipelnes)
-- [Monitor your HPC jobs](#Monitor-your-HPC-jobs)
+- [Portable Nextflow pipelines](#portable-nextflow-pipelines)
+- [NCI Gadi optimised pipelines](#nci-gadi-optimised-pipelines)
+- [UQ Flashlite optimised pipelines](#uq-flashlite-optimised-pipelines)
+- [USyd Artemis optimised pipelines](#usyd-artemis-optimised-pipelines)
+- [NCI Raijin optimised pipelines](#nci-raijin-decommissioned-optimised-pipelnes)
+- [Monitor your HPC jobs](#monitor-your-hpc-jobs)
 
 ### Portable Nextflow pipelines 
 
