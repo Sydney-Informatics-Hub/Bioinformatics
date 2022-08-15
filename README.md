@@ -15,11 +15,11 @@ The Sydney Informatics Hub is working in partnership with the Australian BioComm
 
 |Repository                  |Description    |Software         |
 |----------------------------|------------------|-------------------------|
-|[BamQC](https://github.com/Sydney-Informatics-Hub/bamQC-nf)| Currently under development |samtools, mosdepth, qualimap, multiqc |
-|Germline-ShortV JointCalling|Currently under development|GATK4                                 |
-|Somatic-ShortV              |Currently under development|GATK4                                 |
-|[GermlineStructuralV](https://github.com/Sydney-Informatics-Hub/Germline-StructuralV_nf)         |Currently under development           |mata, smoove, tiddit, survivor        |
-|[SomaticStructuralV]()          |           Currently under development   |gridss, purple, linx                  |
+|[BamQC-nf](https://github.com/Sydney-Informatics-Hub/bamQC-nf)| Currently under development |samtools, mosdepth, qualimap, multiqc |
+|Germline-ShortV-JointCalling-nf|Currently under development|GATK4                                 |
+|Somatic-ShortV-nf             |Currently under development|GATK4                                 |
+|[GermlineStructuralV-nf](https://github.com/Sydney-Informatics-Hub/Germline-StructuralV_nf)         |Currently under development           |mata, smoove, tiddit, survivor        |
+|[SomaticStructuralV-nf]()          |           Currently under development   |gridss, purple, linx                  |
 
 
 ### NCI Gadi optimised pipelines
