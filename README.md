@@ -10,8 +10,7 @@ This page includes bioinformatics software and pipelines developed and optimised
 - [Monitor your HPC jobs](#monitor-your-hpc-jobs)
 
 ### Portable Nextflow pipelines 
-
-The Sydney Informatics Hub is working in partnership with the Australian BioCommons to develop best practice, portable workflows that can be run at National compute facilities. These workflows are written in Nextflow and use Singularity, making them easy to deploy with a single command at any infrastructure.  
+The Sydney Informatics Hub has worked with the Australian BioCommons to develop [Nextflow](link to info about nextflow) pipelines. Nextflow is a workflow manager that makes it easy to deploy entire workflows in a reproducible manner. The workflows below were developed to complement existing workflows available at [nf.co-re](link).The workflows can be used at any infrastructure that runs Nextflow (>v20.07.1) and Singularity. 
 
 |Repository                  |Description    |Software         |
 |----------------------------|------------------|-------------------------|
