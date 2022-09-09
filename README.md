@@ -10,10 +10,11 @@ This page includes bioinformatics software and pipelines developed and optimised
 - [Monitor your HPC jobs](#monitor-your-hpc-jobs)
 
 ### Portable Nextflow pipelines 
-The Sydney Informatics Hub has worked with the Australian BioCommons to develop [Nextflow](https://www.nextflow.io/) pipelines. Nextflow is a workflow manager that makes it easy to deploy entire workflows in a reproducible manner. The workflows below were developed to complement existing workflows available at [nf.co-re](https://nf-co.re/).The workflows can be used at any infrastructure that runs Nextflow (>v20.07.1) and Singularity. 
+The Sydney Informatics Hub has worked with the Australian BioCommons to develop [Nextflow](https://www.nextflow.io/) pipelines. Nextflow is a workflow manager that makes it easy to deploy entire workflows in a reproducible manner. The workflows below were developed to complement existing workflows available at [nf.co-re](https://nf-co.re/).The workflows can be used at any infrastructure that runs Nextflow and Singularity. 
 
 |Repository                  |Description    |Software         |
 |----------------------------|------------------|-------------------------|
+|[IndexReferenceFasta-nf](https://github.com/Sydney-Informatics-Hub/IndexReferenceFasta-nf)| Create fasta file indexes |samtools, bwa, gatk |
 |[BamQC-nf](https://github.com/Sydney-Informatics-Hub/bamQC-nf)| Currently under development |samtools, mosdepth, qualimap, multiqc |
 |Germline-ShortV-JointCalling-nf|Currently under development|GATK4                                 |
 |Somatic-ShortV-nf             |Currently under development|GATK4                                 |
