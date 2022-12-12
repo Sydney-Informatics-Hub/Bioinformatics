@@ -20,6 +20,7 @@ The Sydney Informatics Hub has worked with the Australian BioCommons to develop 
 |Somatic-ShortV-nf             |Currently under development|GATK4                                 |
 |[GermlineStructuralV-nf](https://github.com/Sydney-Informatics-Hub/Germline-StructuralV_nf)         |Currently under development           |manta, smoove, tiddit, survivor        |
 |[SomaticStructuralV-nf]()          |           Currently under development   |gridss, purple, linx                  |
+|[IGVreport-nf](https://github.com/Sydney-Informatics-Hub/IGVreport-nf)          |           Generate IGV report for a set of variants |IGV, bcftools |
 
 
 ### NCI Gadi optimised pipelines
