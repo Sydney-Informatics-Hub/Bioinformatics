@@ -18,7 +18,7 @@ The Sydney Informatics Hub has worked with the Australian BioCommons to develop 
 |[BamQC-nf](https://github.com/Sydney-Informatics-Hub/bamQC-nf)| Alignment quality control stats |samtools, mosdepth, qualimap, multiqc |
 |Germline-ShortV-JointCalling-nf|Currently under development|GATK4                                 |
 |Somatic-ShortV-nf             |Currently under development|GATK4                                 |
-|[GermlineStructuralV-nf](https://github.com/Sydney-Informatics-Hub/Germline-StructuralV_nf)         | Germline structural variant calling with short read bam files           |manta, smoove, tiddit, survivor        |
+|[GermlineStructuralV-nf](https://github.com/Sydney-Informatics-Hub/Germline-StructuralV_nf)         | Germline structural variant calling with short read bam files           |manta, smoove, tiddit, survivor, annotSV        |
 |[SomaticStructuralV-nf]()          |           Currently under development   |gridss, purple, linx                  |
 |[IGVreport-nf](https://github.com/Sydney-Informatics-Hub/IGVreport-nf)          |           Generate IGV report for a set of variants |IGV, bcftools |
 
