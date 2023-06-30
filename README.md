@@ -4,8 +4,8 @@ This page includes bioinformatics software and pipelines developed and optimised
 
 - [Portable Nextflow pipelines](#portable-nextflow-pipelines)
 - [NCI Gadi optimised pipelines](#nci-gadi-optimised-pipelines)
-- [UQ Flashlite optimised pipelines](#uq-flashlite-optimised-pipelines)
 - [USyd Artemis optimised pipelines](#usyd-artemis-optimised-pipelines)
+- [UQ Flashlite optimised pipelines](#uq-flashlite-decomissioned-optimised-pipelines)
 - [NCI Raijin optimised pipelines](#nci-raijin-decommissioned-optimised-pipelnes)
 - [Monitor your HPC jobs](#monitor-your-hpc-jobs)
 
@@ -16,7 +16,6 @@ The Sydney Informatics Hub has worked with the Australian BioCommons to develop 
 |----------------------------|------------------|-------------------------|
 |[IndexReferenceFasta-nf](https://github.com/Sydney-Informatics-Hub/IndexReferenceFasta-nf)| Create fasta file indexes |samtools, bwa, gatk |
 |[BamQC-nf](https://github.com/Sydney-Informatics-Hub/bamQC-nf)| Alignment quality control stats |samtools, mosdepth, qualimap, multiqc |
-|Germline-ShortV-JointCalling-nf|Currently under development|GATK4                                 |
 |Somatic-ShortV-nf             |Currently under development|GATK4                                 |
 |[GermlineStructuralV-nf](https://github.com/Sydney-Informatics-Hub/Germline-StructuralV_nf)         | Germline structural variant calling with short read bam files           |manta, smoove, tiddit, survivor, annotSV        |
 |[IGVreport-nf](https://github.com/Sydney-Informatics-Hub/IGVreport-nf)          |           Generate IGV report for a set of variants |IGV, bcftools |
@@ -41,7 +40,14 @@ The Sydney Informatics Hub has worked with the National Compute Infrastructure (
 |[BioCommons-Canu-Metrics](https://github.com/Sydney-Informatics-Hub/BioCommons-Canu-Metrics)|Collect compute resource usage metrics (CPU, memory, /scratch disk, /jobfs disk, iNode) after running Canu optimised for NCI Gadi by the Australian BioCommons||
 
 
-### UQ Flashlite optimised pipelines
+### USyd Artemis optimised pipelines
+
+| Repository| Description     |	Software	|
+|-----------|-----------------|-----------------|
+|[GermlineShortV_biovalidation](https://github.com/Sydney-Informatics-Hub/GermlineShortV_biovalidation)|Biological validation of germline variant calling pipeline for model and non-model organisms. |hap.py, bcftools, R|
+|[Artemis-Trinity]| Coming soon! |Trinity|
+
+### UQ Flashlite (decomissioned) optimised pipelines 
 
 | Repository| Description     |	Software	|
 |-----------|-----------------|-----------------|
@@ -49,12 +55,6 @@ The Sydney Informatics Hub has worked with the National Compute Infrastructure (
 |[Flashlite-Juicer](https://github.com/natbutter/juicer)|PBS version of [Juicer](https://github.com/aidenlab/juicer) that generates Hi-C maps from raw fastq files| [Juicer](https://github.com/aidenlab/juicer)|
 |[Flashlite-Supernova](https://github.com/Sydney-Informatics-Hub/Flashlite-Supernova)|10X Genomic's Supernova generates phased, whole-genome de novo assemblies from a Chromium-prepared library.| Supernova |
 
-### USyd Artemis optimised pipelines
-
-| Repository| Description     |	Software	|
-|-----------|-----------------|-----------------|
-|[GermlineShortV_biovalidation](https://github.com/Sydney-Informatics-Hub/GermlineShortV_biovalidation)|Biological validation of germline variant calling pipeline for model and non-model organisms. |hap.py, bcftools, R|
-|[Artemis-Trinity]| Coming soon! |Trinity|
 
 ### NCI Raijin (decommissioned) optimised pipelnes
 
@@ -66,6 +66,7 @@ The Sydney Informatics Hub has worked with the National Compute Infrastructure (
 | Repository| Description     |	Software	|
 |-----------|-----------------|-----------------|
 |[HPC_usage_reports](https://github.com/Sydney-Informatics-Hub/HPC_usage_reports)|Pull resource usage data from job logs into tab-delimited format for Gadi, Artemis and Flashlite HPCs |perl|
+|[NCI Gadi benchmarking template](https://github.com/Sydney-Informatics-Hub/Gadi-benchmarking/tree/main)|Template scripts to automate submission of identical benchmark tasks with increasing compute resources |bash|
 
 # Cite us to support us!
 
