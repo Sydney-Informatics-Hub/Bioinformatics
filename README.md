@@ -56,6 +56,8 @@ We have created resources to support Nextflow workflow development and deploymen
 |[Nextflow DSL2 template](https://github.com/Sydney-Informatics-Hub/template-nf)|A straightforward Nextflow workflow template generator.|
 |[Nextflow ConfigBuilder](https://github.com/georgiesamaha/configBuilder-nf)|A simple custom config file generator. Under development.|
 |[IGVreport-nf](https://github.com/Sydney-Informatics-Hub/IGVreport-nf) |Generate IGV report for a set of variants.|
+|[split-GeneWiz-fastq](https://github.com/Sydney-Informatics-Hub/split-GeneWiz-fastq) |Split GeneWiz 'combined' (concatenated) fastq files into correct flowcell-lane pairs.|
+|[Fix-BAM-read-groups](https://github.com/Sydney-Informatics-Hub/Fix-BAM-read-groups) |Change the read group metadata within a BAM file. Operates on the header as well as the individual SAM output lines.|
 
 ## Self-directed training materials
 
