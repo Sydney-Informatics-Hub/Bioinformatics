@@ -7,15 +7,16 @@
 
 This page includes bioinformatics pipelines, software, and training material developed by the [Sydney Informatics Hub](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html), which is a Core Research Facility of the University of Sydney. The Sydney Informatics Hub is an official node of the [Australian BioCommons](https://www.biocommons.org.au/), and has worked in partnership with [National Computational Infrastructure](https://nci.org.au/), [Pawsey Supercomputing Research Centre](https://pawsey.org.au), and [QCIF](https://www.qcif.edu.au/) to create command-line resources that make bioinformatics more accessible for life scientists. 
 
-Many of the resources available here are focused on making processing data at scale more accessible. To achieve this we have developed optimised pipelines for national HPC infrastructures and resources for Nextflow workflow development. 
+Many of the resources available here are focused on making processing data at scale more accessible. To achieve this we have developed optimised pipelines for national HPC infrastructures and resources for workflow development. 
 
-- :computer: [Reproducible pipelines for HPCs](#reproducible-pipelines)
-- :notebook: [Reproducible code notebooks](#reproducible-notebooks)
-- :floppy_disk: [Software and helper scripts](#software-and-helper-scripts)
-- :mortar_board: [Training materials](#self-directed-training-materials)
-- :information_desk_person: [Cite us to support us](#cite-us-to-support-us)
+- :computer: [Reproducible pipelines for HPCs](#computer-reproducible-pipelines)
+- :notebook: [Reproducible code notebooks](#notebook-reproducible-notebooks)
+- :sparkles: [Supporting Nextflow](#sparkles-supporting-nextflow)
+- :floppy_disk: [Software and helper scripts](#floppy_disk-software-and-helper-scripts)
+- :mortar_board: [Training materials](#mortar_board-self-directed-training-materials)
+- :information_desk_person: [Cite us to support us](#information_desk_person-cite-us-to-support-us)
 
-## Reproducible pipelines 
+## :computer: Reproducible pipelines 
 
 Our pipelines have been optimised for compute platforms including the University of Sydney's HPC [Artemis](https://informatics.sydney.edu.au/services/artemis/), the [National Compute Infrastructure](https://nci.org.au/) (NCI), Pawsey Supercomputing Research Centre's HPC [Setonix](https://pawsey.org.au/systems/setonix/) and [Nimbus cloud](https://pawsey.org.au/systems/nimbus-cloud-service/), the University of Queensland's (UQ's) HPC [Flashlite](https://rcc.uq.edu.au/filething/get/14818/FlashLite_User_Guide_20200122.pdf) and AWS Cloud. You can find DOIs for all our pipelines at the Sydney Informatics Hub's [WorkflowHub](https://workflowhub.eu/projects/43#workflows). 
 
@@ -41,25 +42,33 @@ We also support the use of [nf-core](https://nf-co.re/) workflows. Check out the
 |Transcriptomics  |[SIH-Raijin-Trinity](https://github.com/Sydney-Informatics-Hub/SIH-Raijin-Trinity)                      |Optimised - Raijin [decomissioned]                |Trinity assembles Illumina RNA-Seq data into transcript sequences. Trinity was developed at the Broad Institute and the Hebrew University of Jerusalem. SIH-Raijin-Trinity allows Trinity to be scalable by enabling use of multiple nodes on NCI Raijin. The entire workflow can complete ~4X faster using 10 broadwell nodes!|samtools/1.9, java/jdk1.8.0_60, bowtie2/2.3.3.1, jellyfish/2.2.6, salmon/0.11.0, perl/5.22.1, trinity/2.8.4, python3/3.6.7                                                                     |
 |Data preparation |[IndexReferenceFasta-nf](https://github.com/Sydney-Informatics-Hub/IndexReferenceFasta-nf)              |Nextflow - NCI Gadi, Pawsey Setonix, Pawsey Nimbus| Create fasta file indexes                                                                                                                                                                                                                                                                                                     |samtools, bwa, gatk                                                                                                                                                                            |
 |Biological benchmarking|[GermlineShortV_biovalidation](https://github.com/Sydney-Informatics-Hub/GermlineShortV_biovalidation)  |Optimised - Usyd Artemis                          |Biological validation of germline variant calling pipeline for model and non-model organisms.                                                                                                                                                                                                                                  |hap.py, bcftools, R                                                                                                                                                                            |                                                                                                                                                              |
-## Reproducible notebooks
+## :notebook: Reproducible notebooks
 
 Coming soon! 
 
-## Software and helper scripts 
+## :sparkles: Supporting Nextflow
 
-We have created resources to support Nextflow workflow development and deployment and flexible data visualisation. 
+We have created resources to support [Nextflow workflow](https://www.nextflow.io/docs/latest/index.html) development and deployment on HPC infrastructures. 
+
+|Tool             |Description                                                                                             |
+|-----------------|--------------------------------------------------------------------------------------------------------|
+|[Nextflow DSL2 template](https://github.com/Sydney-Informatics-Hub/template-nf)|A straightforward Nextflow workflow template generator.|
+|[Nextflow ConfigBuilder](https://github.com/georgiesamaha/configBuilder-nf)|A simple custom config file generator. Under development.|
+|[Institutional nf-core configs](https://github.com/nf-core/configs)|Public config files for running nf-core pipelines at NCI and Pawsey infrastructures. |
+
+## :floppy_disk: Software and helper scripts 
+
+We have created resources to support workflow development and deployment on HPCs, resource benchmarking, and flexible data visualisation. 
 
 |Tool             |Description                                                                                             |
 |-----------------|--------------------------------------------------------------------------------------------------------|
 |[HPC usage reports](https://github.com/Sydney-Informatics-Hub/HPC_usage_reports) |Pull resource usage data from HPC job logs into reports.|                                        
 |[NCI Gadi benchmarking template](https://github.com/Sydney-Informatics-Hub/Gadi-benchmarking/tree/main) |Automated submission of identical benchmark tasks with increasing compute resources. |            
-|[Nextflow DSL2 template](https://github.com/Sydney-Informatics-Hub/template-nf)|A straightforward Nextflow workflow template generator.|
-|[Nextflow ConfigBuilder](https://github.com/georgiesamaha/configBuilder-nf)|A simple custom config file generator. Under development.|
 |[IGVreport-nf](https://github.com/Sydney-Informatics-Hub/IGVreport-nf) |Generate IGV report for a set of variants.|
 |[split-GeneWiz-fastq](https://github.com/Sydney-Informatics-Hub/split-GeneWiz-fastq) |Split GeneWiz 'combined' (concatenated) fastq files into correct flowcell-lane pairs.|
 |[Fix-BAM-read-groups](https://github.com/Sydney-Informatics-Hub/Fix-BAM-read-groups) |Change the read group metadata within a BAM file. Operates on the header as well as the individual SAM output lines.|
 
-## Self-directed training materials
+## :mortar_board: Self-directed training materials
 
 We deliver national training events focused on the accessibility of command-line bioinformatics as a part of the Australian BioCommons training cooperative. Visit their [events page](https://www.biocommons.org.au/events) for upcoming events. You can find recordings of past events on the [Australian BioCommons YouTube channel](https://www.youtube.com/@AustralianBioCommonsChannel) and the [Sydney Informatics Hub YouTube channel](https://www.youtube.com/@sydneyinformaticshub1170). Materials for all Australian BioCommons events are published on [Zenodo](https://zenodo.org/communities/australianbiocommons-training/).
 
@@ -74,7 +83,7 @@ We deliver national training events focused on the accessibility of command-line
 |[Submitting your best NCMAS application](https://www.youtube.com/watch?v=HeFGjguwS0Y)|Recommendations for accessing national HPCs via NCMAS                                                   |None                                                          |
 |[Where to go when your bioinformatics outgrows your compute webinar](https://www.youtube.com/watch?v=hNTbngSc-W0)|Essential concepts for understanding compute requirements of bioinformatics workflows and Australian research compute facilities|None                                                          |
 
-## Cite us to support us!
+## :information_desk_person: Cite us to support us!
 
 Acknowledgements (and co-authorship, where appropriate) are an important way for us to demonstrate the value we bring to your research. Your research outcomes are vital for ongoing funding of the Sydney Informatics Hub and national compute facilities. Please cite the pipeline repository(s) that you have used. You can also find DOIs for all our pipelines at the Sydney Informatics Hub's [WorkflowHub](https://workflowhub.eu/projects/43#workflows).
 
