@@ -42,7 +42,7 @@ We also support the use of [nf-core](https://nf-co.re/) workflows. Check out the
 |Biological benchmarking|[GermlineShortV_biovalidation](https://github.com/Sydney-Informatics-Hub/GermlineShortV_biovalidation)  |Optimised - Usyd Artemis                          |Biological validation of germline variant calling pipeline for model and non-model organisms.                                                                                                                                                                                                                                  |hap.py, bcftools, R                                                                                                                                                                            |                                                                                                                                                              |
 ## :notebook: Reproducible notebooks
 
-|Tool             |Description                                                                                             |
+|Notebook             |Description                                                                                             |
 |-----------------|--------------------------------------------------------------------------------------------------------|
 |[Rnaseq-rstudio](https://github.com/Sydney-Informatics-Hub/rnaseq_DE_Day2_1023.git)|A Rmarkdown notebook to convert raw gene counts to functional enrichments|
 
