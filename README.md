@@ -44,7 +44,7 @@ We also support the use of [nf-core](https://nf-co.re/) workflows. Check out the
 
 |Notebook             |Description                                                                                             |
 |-----------------|--------------------------------------------------------------------------------------------------------|
-|[Rnaseq-rstudio](https://github.com/Sydney-Informatics-Hub/rnaseq_DE_Day2_1023.git)|A Rmarkdown notebook to convert raw gene counts to functional enrichments|
+|[Rnaseq: differential expression](https://github.com/Sydney-Informatics-Hub/rna-differential-expression-Rnotebook)|A Rmarkdown notebook to convert raw gene counts to functional enrichments|
 
 ## :sparkles: Supporting Nextflow
 
@@ -75,14 +75,9 @@ We deliver national training events focused on the accessibility of command-line
 |Event            |Description                                                                                             |Prerequisites                                                 |
 |-----------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 |[Unlocking nf-core workshop](https://sydney-informatics-hub.github.io/customising-nfcore-workshop/)|Foundational skills for running and customising nf-core workflows reproducibly.                         |Experince with Unix CLI, familiarity with Nextflow and nf-core|
-|[Introduction to RNAseq workshop](https://sydney-informatics-hub.github.io/training.RNAseq.series-quarto/)|RNAseq data analysis for differential expression on the CLI.                                            |Experince with Unix CLI, familiarity with R/RStudio           |
+|[Introduction to RNAseq workshop](https://sydney-informatics-hub.github.io/rnaseq-workshop-2023/)|RNAseq data analysis for differential expression on the CLI.                                            |Experince with Unix CLI, familiarity with R/RStudio           |
 |[Artemis HPC training series](https://sydney-informatics-hub.github.io/training.artemis/)|A comprehensive introduction to USyd's HPC.                                                 |Competency with Unix CLI             |
 |[Introduction to NCI Gadi workshop](https://sydney-informatics-hub.github.io/training.gadi.intro/)|A quickstart guide for experienced supercomputer users.                                                  |Experience with Unix CLI, HPC infrastructures                 |
-|[Pro-tips for scaling bioinformatics workflows to HPC webinar](https://youtu.be/YKJDRXCmGMo)|Essential concepts and considerations for working on HPCs.                                              |None                                                          |
-|[Getting started with WGS mapping and variant calling webinar](https://www.youtube.com/watch?v=Q2EceFyizio)|Essential practical considerations for working with WGS data.                                           |None                                                          |
-|[Making your workflows findable and citable webinar](https://www.youtube.com/watch?v=2kGKxaPuQN8)| An introduction to workflow registries to share your computational workflows with the research community.                                    |None                                                          |
-|[Submitting your best NCMAS application](https://www.youtube.com/watch?v=HeFGjguwS0Y)|Recommendations for accessing national HPCs via NCMAS                                                   |None                                                          |
-|[Where to go when your bioinformatics outgrows your compute webinar](https://www.youtube.com/watch?v=hNTbngSc-W0)|Essential concepts for understanding compute requirements of bioinformatics workflows and Australian research compute facilities|None                                                          |
 
 ## :information_desk_person: Cite us to support us!
 
