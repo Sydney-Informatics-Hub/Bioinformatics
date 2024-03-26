@@ -9,7 +9,7 @@ This page includes bioinformatics pipelines, software, and training material dev
 
 Many of the resources available here are focused on making processing data at scale more accessible. To achieve this we have developed optimised pipelines for national HPC infrastructures and resources for workflow development. 
 
-- :computer: [Reproducible pipelines for HPCs](#computer-reproducible-pipelines)
+- :computer: [Scalable data processing pipelines](#computer-reproducible-pipelines)
 - :notebook: [Reproducible code notebooks](#notebook-reproducible-notebooks)
 - :sparkles: [Supporting Nextflow](#sparkles-supporting-nextflow)
 - :floppy_disk: [Software and helper scripts](#floppy_disk-software-and-helper-scripts)
