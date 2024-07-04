@@ -14,6 +14,7 @@ Many of the resources available here are focused on making processing data at sc
 - :sparkles: [Supporting Nextflow](#sparkles-supporting-nextflow)
 - :floppy_disk: [Software and helper scripts](#floppy_disk-software-and-helper-scripts)
 - :mortar_board: [Training materials](#mortar_board-self-directed-training-materials)
+- :neckbeard: [Bio-toolkit](https://github.com/Sydney-Informatics-Hub/Bio-toolkit)
 - :information_desk_person: [Cite us to support us](#information_desk_person-cite-us-to-support-us)
 
 ## :computer: Reproducible pipelines 
