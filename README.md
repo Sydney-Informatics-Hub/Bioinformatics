@@ -13,8 +13,7 @@ Many of the resources available here are focused on making processing data at sc
 - :notebook: [Reproducible code notebooks](#notebook-reproducible-notebooks)
 - :sparkles: [Supporting Nextflow](#sparkles-supporting-nextflow)
 - :floppy_disk: [Software and helper scripts](#floppy_disk-software-and-helper-scripts)
-- :mortar_board: [Training materials](#mortar_board-self-directed-training-materials)
-- :neckbeard: [Bio-toolkit](https://github.com/Sydney-Informatics-Hub/Bio-toolkit)
+- :neckbeard: [Bio-toolkit resources](https://github.com/Sydney-Informatics-Hub/Bio-toolkit)
 - :information_desk_person: [Cite us to support us](#information_desk_person-cite-us-to-support-us)
 
 ## :computer: Reproducible pipelines 
@@ -68,17 +67,6 @@ We have created resources to support workflow development and deployment on HPCs
 |[IGVreport-nf](https://github.com/Sydney-Informatics-Hub/IGVreport-nf) |Generate IGV report for a set of variants.|
 |[split-GeneWiz-fastq](https://github.com/Sydney-Informatics-Hub/split-GeneWiz-fastq) |Split GeneWiz 'combined' (concatenated) fastq files into correct flowcell-lane pairs.|
 |[Fix-BAM-read-groups](https://github.com/Sydney-Informatics-Hub/Fix-BAM-read-groups) |Change the read group metadata within a BAM file. Operates on the header as well as the individual SAM output lines.|
-
-## :mortar_board: Self-directed training materials
-
-We deliver national training events focused on the accessibility of command-line bioinformatics as a part of the Australian BioCommons training cooperative. Visit their [events page](https://www.biocommons.org.au/events) for upcoming events. You can find recordings of past events on the [Australian BioCommons YouTube channel](https://www.youtube.com/@AustralianBioCommonsChannel) and the [Sydney Informatics Hub YouTube channel](https://www.youtube.com/@sydneyinformaticshub1170). Materials for all Australian BioCommons events are published on [Zenodo](https://zenodo.org/communities/australianbiocommons-training/).
-
-|Event            |Description                                                                                             |Prerequisites                                                 |
-|-----------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-|[Unlocking nf-core workshop](https://sydney-informatics-hub.github.io/customising-nfcore-workshop/)|Foundational skills for running and customising nf-core workflows reproducibly.                         |Experince with Unix CLI, familiarity with Nextflow and nf-core|
-|[Introduction to RNAseq workshop](https://sydney-informatics-hub.github.io/rnaseq-workshop-2023/)|RNAseq data analysis for differential expression on the CLI.                                            |Experince with Unix CLI, familiarity with R/RStudio           |
-|[Artemis HPC training series](https://sydney-informatics-hub.github.io/training.artemis/)|A comprehensive introduction to USyd's HPC.                                                 |Competency with Unix CLI             |
-|[Introduction to NCI Gadi workshop](https://sydney-informatics-hub.github.io/training.gadi.intro/)|A quickstart guide for experienced supercomputer users.                                                  |Experience with Unix CLI, HPC infrastructures                 |
 
 ## :information_desk_person: Cite us to support us!
 
