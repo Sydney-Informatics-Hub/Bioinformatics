@@ -83,8 +83,12 @@ Suggested acknowledgements:
 
 __Sydney Informatics Hub__
 
-The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney and the Australian BioCommons which is enabled by NCRIS via ARDC and Bioplatforms Australia.
+The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney and Australian BioCommons which is enabled by NCRIS via Bioplatforms Australia.
 
-__NCI Gadi__
+__NCI__
 
-The authors acknowledge the technical assistance provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney and the Australian BioCommons which is enabled by NCRIS via Bioplatforms Australia. The authors acknowledge the use of the National Computational Infrastructure (NCI) supported by the Australian Government and the Sydney Informatics Hub HPC Allocation Scheme, supported by the Deputy Vice-Chancellor (Research), University of Sydney and the ARC LIEF, 2019: Smith, Muller, Thornber et al., Sustaining and strengthening merit-based access to National Computational Infrastructure (LE190100021).
+This research was conducted on resources of the National Computational Infrastructure (NCI), an NCRIS-enabled capability supported by the Australian Government. Access to these resources was provided by the Sydney Informatics Hub, a Core Research Facility of The University of Sydney as supported by the Deputy Vice-Chancellor (Research).
+
+__Pawsey__
+
+This research was conducted on resources of the Pawsey Supercomputing Research Centre, an NCRIS-enabled capability supported by the Australian Government. Access to these resources was provided by the Sydney Informatics Hub, a Core Research Facility of The University of Sydney as supported by the Deputy Vice-Chancellor (Research).
