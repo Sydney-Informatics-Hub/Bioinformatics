@@ -11,10 +11,7 @@ Many of the resources available here are focused on making processing data at sc
 
 - :pencil2: [Bioinformatics training](#pencil2-bioinformatics-training)
 - :computer: [Data processing pipelines](#computer-bioinformatics-pipelines)
-- :notebook: [Analytical notebooks](#notebook-analytical-notebooks)
-- :sparkles: [Supporting Nextflow](#sparkles-supporting-nextflow)
-- :floppy_disk: [Software and helper scripts](#floppy_disk-software-and-helper-scripts)
-- :neckbeard: [Bio-toolkit resources](https://github.com/Sydney-Informatics-Hub/Bio-toolkit)
+- :sparkles: [Bioinformatics infrastructure](#sparkles-bioinformatics-infrastructure-and-services)
 - :information_desk_person: [Cite us to support us](#information_desk_person-cite-us-to-support-us)
 
 ## :pencil2: Bioinformatics training
@@ -25,22 +22,28 @@ We deliver free training to a national audience. See our [training webpage](http
 
 Our pipelines have been optimised for compute platforms including the [National Compute Infrastructure](https://nci.org.au/) (NCI) and Pawsey Supercomputing Research Centre's HPC [Setonix](https://pawsey.org.au/systems/setonix/). 
 
-You can find all our pipelines at the Sydney Informatics Hub's [WorkflowHub](https://workflowhub.eu/projects/43#workflows) page. 
+You can find all our pipelines and notebooks at the Sydney Informatics Hub's [WorkflowHub](https://workflowhub.eu/projects/43#workflows) page. 
 
 We also support the use of [nf-core](https://nf-co.re/) workflows. Check out the [institutional configs](https://github.com/nf-core/configs) we've build for Australian HPC and cloud infrastructures. 
 
 * [NCI Gadi HPC](https://nf-co.re/configs/nci_gadi/) 
 * [Pawsey Setonix HPC](https://nf-co.re/configs/pawsey_setonix/)
 
-## :notebook: Analytical notebooks
+### Analytical notebooks
 
 |Notebook             |Description                                                                                             |
 |-----------------|--------------------------------------------------------------------------------------------------------|
 |[Rnaseq: differential expression](https://github.com/Sydney-Informatics-Hub/rna-differential-expression-Rnotebook)|A Rmarkdown notebook to convert raw gene counts to functional enrichments|
 |[single cell RNAseq: differential expression etc](https://github.com/Sydney-Informatics-Hub/scrna-analysis)|A Rmarkdown notebook to convert raw counts to functional enrichments |
-|[Proteomics: differential abundance]()|Currently under development |
 
-## :sparkles: Supporting Nextflow
+## :sparkles: Bioinformatics infrastructure and services
+
+In collaboration with Australian BioCommons we are developing a supportive CLI environment for bioinformatics users called Bioshell. This is currently available on ARDC's Nectar research cloud and is coming soon to NCI's Nirin cloud. Code is public and can be found:
+
+- [Bioshell](https://github.com/AustralianBioCommons/bioimage): pre‑configured, cloud‑ready bioinformatics environment for virtual machines
+- [Shelley-bio 🐢](https://github.com/Sydney-Informatics-Hub/shelley-bio): tool finder and module builder for CVMFS-hosted containers on bioshell
+
+### Nextflow support 
 
 We have created resources to support [Nextflow workflow](https://www.nextflow.io/docs/latest/index.html) development and deployment on HPC infrastructures. 
 
@@ -49,7 +52,7 @@ We have created resources to support [Nextflow workflow](https://www.nextflow.io
 |[Nextflow DSL2 template](https://github.com/Sydney-Informatics-Hub/template-nf)|A straightforward Nextflow workflow template generator.|
 |[Institutional nf-core configs](https://github.com/nf-core/configs)|Public config files for running nf-core pipelines at NCI and Pawsey infrastructures. |
 
-## :floppy_disk: Software and helper scripts 
+### Helper scripts 
 
 We have created resources to support workflow development and deployment on HPCs, resource benchmarking, and flexible data visualisation. 
 
